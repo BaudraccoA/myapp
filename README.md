@@ -1,3 +1,36 @@
+<h1> Primer Ejercicio con React.JS, de Argentina Programa 4.0 </h1>
+<hr>
+Consigna: 
+Crear una aplicación con react cli llamada "myapp".<br>
+Desarrollar el maquetado de una pagina de detalle de un producto para un sitio de
+ecommerce, se deberán visualizar los siguientes datos:<br>
+● Nombre<br>
+● Descripción<br>
+● Precio<br>
+● SKU<br>
+● Cantidad disponible<br>
+Realizar un maquetado con los datos, desarrollado con componentes.
+<hr>
+
+ <h2>☑️Como se visualiza:</h2>
+
+![Ejercicio Clase 3](https://github.com/BaudraccoA/myapp/assets/105230509/951612ba-4812-4958-942b-9e18824ddc69)
+
+##  ☑️ Tecnologías utilizadas
+* HTML
+* CSS
+* JavaScript * React.JS
+<hr>
+<h3> ☑️ Autor: </h3>
+<p><em>Baudracco Alejandro Javier</em></p>
+
+
+<h3>☑️ Profesor: </h3>
+<em>Condori José Luis</em>
+
+<hr>
+<hr>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
